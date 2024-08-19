@@ -1,5 +1,5 @@
-title: show logo
-logo: picture
-description: text below logo
-show download: false
+#title: show logo
+#logo: picture
+#description: text below logo
+#show download: false
 theme: jekull-theme-minimal
