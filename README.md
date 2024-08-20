@@ -1,6 +1,6 @@
 ## BUSINESS ANALYST 
 
-## EDUCATION:
+## EDUCATION: 
 B.sc in Banking and Finance
 
 ## CERTIFICATIONS:
