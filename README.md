@@ -1,6 +1,7 @@
-## Business Analyst 
+### BUSINESS ANALYST 
 
-## Education
+## EDUCATION:
+• B.sc in Banking and Finance
 
 ## CERTIFICATIONS:
 •	Coursera certification in Business Analytics with Excel
